@@ -11,8 +11,8 @@ function addProductToCart(product) {
     console.error("Cart items in localStorage is not an array, resetting.");
     setLocalStorage("so-cart", []); // Restablece el carrito
     return;
-  } 
-  
+  }
+
   cartItems.push(product);
   setLocalStorage("so-cart", cartItems);
 }
