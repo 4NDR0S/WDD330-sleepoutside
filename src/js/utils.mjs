@@ -22,4 +22,3 @@ export function setClick(selector, callback) {
   qs(selector).addEventListener("click", callback);
 }
 
-console.log("AAAA");
