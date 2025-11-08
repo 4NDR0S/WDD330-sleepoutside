@@ -20,7 +20,7 @@
 - `npm run build` to build final files when you are ready to turn in.
 
 ### Netlify site URL
-HTTPS//www.addSiteURLhere.app
+[HTTPS//www.addSiteURLhere.app](https://wdd-330-sleepoutside.vercel.app/cart/index.html)
 
 ---
 _BYU-Pathway Worldwide improves lives through access to spiritually based, online affordable higher education. Its mission is to develop disciples of Jesus Christ who are leaders in their homes, the Church, and their communities._
