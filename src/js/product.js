@@ -1,5 +1,10 @@
 import { setLocalStorage } from './utils.mjs';
 import ProductData from './ProductData.mjs';
+import { loadHeaderFooter } from "./utils.mjs";
+
+// Call the function
+// We MUST pass "../" as the path prefix
+loadHeaderFooter("../");
 
 const dataSource = new ProductData('tents');
 
